@@ -40,3 +40,9 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BillRBarker/02-homework)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/BillRBarker/02-homework)
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
