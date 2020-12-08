@@ -10,6 +10,8 @@
 
 ## **Usage**
 This web site is used to explore the services offered by the Horiseon company.  These include Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
+ 
+![Website Capture](/Develop/assets/images/Web-site-Capture.PNG)
 
 ## **Credits**
 
