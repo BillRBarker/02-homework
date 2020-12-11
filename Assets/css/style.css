@@ -1,3 +1,20 @@
+/************************************************/
+/* This is the css file for the Horiseo website */
+/************************************************/
+
+/****************************************/
+/* Table of Contents                    */
+/* 01 Global Styles                     */
+/* 02 Header                            */
+/* 03 Navigation bar inside the header  */
+/* 04 Aside items                       */
+/* 05 section content                   */
+/* 06 Footer formatting                 */
+/****************************************/
+
+/********************/
+/* 01 Global Styles */
+/********************/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +24,10 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*******************************/
+/* 02 Header                   */
+/*******************************/
 
 header {
     padding: 20px;
@@ -23,7 +44,11 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* Navigation bar inside the header */
+
+/***************************************/
+/* 03 Navigation bar inside the header */
+/***************************************/
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -69,11 +94,16 @@ p {
     margin-left: 25px;
 }
 
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/******************/
+/* 04 Aside items */
+/******************/
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +164,10 @@ p {
     max-width: 150px;
 }
 
+/**********************/
+/* 05 section content */
+/**********************/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,7 +222,10 @@ p {
     font-size: 36px;
 }
 
-/* Footer formatting */
+/************************/
+/* 06 Footer formatting */
+/************************/
+
 footer {
     padding: 30px;
     clear: both;
